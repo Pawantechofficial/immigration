@@ -106,7 +106,7 @@ const Navbar = () => {
                 visas
               </li>
             </Link>
-            <Link href="/contacts">
+            <Link href="/contact">
               <li
                 onClick={handleNav}
                 className="py-4 px-3 uppercase cursor-pointer"
