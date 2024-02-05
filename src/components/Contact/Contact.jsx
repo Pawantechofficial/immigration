@@ -68,7 +68,7 @@ const Contact = () => {
               </div>
             </div>
             {/* #########******** */}
-            <div className="lg:pl-36">
+            <div className="lg:pl-36 hidden lg:block">
               <h5 className="text-xl font-bold text-white my-2">
                 <span className="text-blue-600">Our Branches</span>
               </h5>
