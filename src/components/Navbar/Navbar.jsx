@@ -115,7 +115,7 @@ const Navbar = () => {
               </li>
             </Link>
             {/* demo booking button */}
-            <Link href="/contacts">
+            <Link href="/contact">
               <button className="py-2 mt-2 text-white cursor-pointer bg-[#C7252F] px-3 rounded-3xl">
                 Demo Booking
               </button>
